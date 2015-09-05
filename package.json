@@ -9,7 +9,6 @@
   "author": "Randy Valis",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.13.3",
     "rethinkdb": "^2.1.0",
     "ws": "^0.8.0"
   }

@@ -1,5 +1,9 @@
+// web socket library
 var apiserver = require('ws-rest-api');
+// db library
 var r = require('rethinkdb');
+// the AI library
+var fann = require('fann');
 
 var TABLE_NAME =  "sensor_data";
 var DB_NAME = "location_tracker_db";
